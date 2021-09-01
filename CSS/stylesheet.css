@@ -1,0 +1,16 @@
+body {
+	background-color: maroon;
+}
+
+*{
+	color: #FFFFFF; /*rgb(255,255,255)*/
+}
+
+h1,h2,h3{
+	color: black;
+}
+
+h3{
+	font-family: 'Barrio';
+	font-size: 22px;
+}
